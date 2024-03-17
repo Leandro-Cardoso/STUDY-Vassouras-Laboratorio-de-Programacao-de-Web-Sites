@@ -8,7 +8,9 @@ Anotações, atividades e desafios de HTML, CSS e JavaScript da disciplina Labor
 Universidade de Vassouras, curso de Engenharia de Software.<br>
 
 ### ⚙️ Tecnologias:
-* Python
+* HTML
+* CSS
+* JavaScript
 
 ### ⚙️ Estudos:
 * [Aula 01 - Tags HTML](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula01/aula01-tags-html.html)
