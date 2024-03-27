@@ -15,6 +15,7 @@ Universidade de Vassouras, curso de Engenharia de Software.<br>
 ### ⚙️ Estudos:
 * [Aula 01 - Tags HTML](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula01/aula01-tags-html.html)
     * [Exercício 01 - Simulado](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula01/exercicio01-simulado.html)
+* [Aula 02 - Tabelas](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula02/aula02-tabelas.html)
 
 <div align="center">
     <h2>Autor</h2>
