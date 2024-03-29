@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+	<head>
+		<meta charset="UTF-8" />
+		<title>Aula 03</title>
+		<style>
+			h2 {
+				text-align: center;
+			}
+			table {
+				background-color: black;
+				margin: auto;
+			}
+			th, td {
+				text-align: center;
+				width: 100px;
+				background-color: white;
+			}
+			tr {
+				height: 30px;
+			}
+		</style>
+	</head>
+	<body>
+		<h1>Aula 03 - Tabelas</h1>
+		
+		<p>Parametros: "colspan" e "rowspan"</p>
+		<p>Tag: caption</p>
+		
+		<h2>Tabela</h2>
+		
+		<table>
+			<caption>
+				Caption teste
+			</caption>
+			<thead>
+				<tr>
+					<th>
+						Col 1
+					</th>
+					<th>
+						Col 2
+					</th>
+					<th>
+						Col 3
+					</th>
+					<th>
+						Col 4
+					</th>
+					<th>
+						Col 5
+					</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<th colspan="2">
+						Colspan 2
+					</th>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<th rowspan="3">
+						Rowspan 3
+					</th>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<th colspan="2" rowspan="2">
+						Colspan 2 e rowspan 2
+					</th>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			</tbody>
+		</table>
+	</body>
+</html>
