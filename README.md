@@ -20,6 +20,8 @@ Universidade de Vassouras, curso de Engenharia de Software.<br>
     * [Exercício 01 - Tabela](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula03/exercicio01-tabela.html)
 * [Aula 04 - Frame, iframe, links e ancoras](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula04/aula04.html)
     * [Exercício 01 - Site](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula04/exercicio01-site.html)
+* [Aula 05 - Tags semânticas e CSS](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula05/aula05.html)
+    * [Exercício 01 - Site](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula05/exercicio01-site-tag-semantica.html)
 
 <div align="center">
     <h2>Autor</h2>
