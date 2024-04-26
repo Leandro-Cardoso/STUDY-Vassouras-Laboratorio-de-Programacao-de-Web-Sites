@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Revisão P1</title>
+		<link rel="stylesheet" href="./exercicio-p1.css" />
+		<style>
+			table {
+				background-color: #000;
+				text-align: center;
+			}
+			th, td {
+				background-color: #fff;
+			}
+			
+			#questao-3 h1{
+				color: green;
+			}
+			#questao-3 h2{
+				color: magenta;
+			}
+			#questao-3 p{
+				background-color: black;
+				color: white;
+			}
+			#questao-3 button{
+				background-color: rgb(192, 253, 255);
+				color: red;
+			}
+
+			#questao-4 span{
+				font-family: Arial;
+				font-size: 30pt;
+			}
+			#questao-4 li{
+				color: blue;
+			}
+			#questao-4  .questao-4-li{
+				color: grey;
+			}
+			#questao-4-btn{
+				background-color: red;
+				color: white;
+			}
+		</style>
+	</head>
+	<body>
+		<header>
+			<h1>Revisão P1</h1>
+			<hr>
+		</header>
+		
+		<section>
+			<h1>Questão 1 - Tabela</h1>
+			<table>
+				<tr>
+					<thead>
+						<tr>
+							<th>Turma</th>
+							<th>Nome</th>
+							<th>Idade</th>
+							<th>Peso</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td rowspan="3">1001</td>
+							<td>Luiz</td>
+							<td>37</td>
+							<td>90</td>
+						</tr>
+						<tr>
+							<td>Maria</td>
+							<td>37</td>
+							<td>60</td>
+						</tr>
+						<tr>
+							<td>João</td>
+							<td>37</td>
+							<td>87</td>
+						</tr>
+						<tr>
+							<td colspan="4">Fonte: Exemplo (2023)</td>
+						</tr>
+					</tbody>
+				</tr>
+			</table>
+		</section>
+		
+		<section>
+			<h1>Questão 2 - Listas</h1>
+			<h2>Ingredientes do bolo</h2>
+			<ul>
+				<li>Ingrediente 1</li>
+				<li>Ingrediente 2</li>
+				<li>Ingrediente 3</li>
+				<li>Ingrediente 4</li>
+				<li>Ingrediente 5</li>
+			</ul>
+			<h2>Modo de preparo</h2>
+			<ol>
+				<li>Passo a passo 1</li>
+				<li>Passo a passo 2</li>
+				<li>Passo a passo 3</li>
+				<li>Passo a passo 4</li>
+				<li>Passo a passo 5</li>
+			</ol>
+			<figure>
+				<img src="./bolo.png" alt="Bolo" />
+				<figcaption>Bolo de exemplo</figcaption>
+			</figure>
+		</section>
+		
+		<section>
+			<h1>Questão 3</h1>
+			<div id="questao-3">
+				<h1> Exemplo - questão </h1>
+				<h2>Está é a questao 4</h2>
+				<p>
+				Lorem ipsum dolor sit amet consectetur adipisicing elit.
+				Voluptatibus cumque sit, magni quidem adipisci asperiores, repellendus
+				nam ratione perferendis rerum ea officia quaerat dicta iste unde itaque
+				et, optio consequatur.
+				Doloremque ullam iure fuga repellendus deserunt itaque nobis
+				consequatur voluptates provident nulla officia veniam, aliquam mollitia
+				ad iste at accusantium incidunt asperiores beatae quasi voluptatum
+				temporibus! Unde dignissimos sit repellat?
+				Illo facilis nesciunt reprehenderit perferendis laborum numquam,
+				tempora voluptate quam excepturi hic error iusto est labore, dicta
+				omnis, consequuntur modi nihil possimus recusandae iste rem!
+				Consequuntur aperiam aspernatur facilis voluptatum.
+				Incidunt nisi et assumenda aperiam, voluptas, sequi saepe, enim
+				maxime atque illum aliquid molestiae accusantium pariatur modi officia
+				aspernatur! Modi nulla nam incidunt commodi non ut, voluptatem
+				cupiditate vitae illo?
+				Repellendus eligendi atque quaerat, officiis numquam non
+				consectetur minima cumque animi rem quam quasi soluta voluptatem sint
+				eveniet explicabo, iste ipsam architecto, veniam eum ea? Illo ullam
+				officiis quod odio.
+				</p>
+				<button>Sign Up</button>
+			</div>
+		</section>
+		
+		<section id="questao-4">
+			<h1>Questão 4</h1>
+			<span>Todos</span>
+			<ul>
+				<li class="questao-4-li">Lorem, ipsum.</li>
+				<li>Lorem, ipsum dolor.</li>
+				<li class="questao-4-li">Lorem, ipsum dolor sit.</li>
+				<li>Lorem, ipsum dolor sit amet.</li>
+				<li>Lorem, ipsum.</li>
+			</ul>
+			<button id="questao-4-btn">Limpar Lista</button>
+			<button>Add Todos</button>
+		</section>
+	</body>
+</html>

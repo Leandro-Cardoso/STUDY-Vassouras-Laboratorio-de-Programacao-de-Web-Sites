@@ -22,6 +22,10 @@ Universidade de Vassouras, curso de Engenharia de Software.<br>
     * [Exercício 01 - Site](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula04/exercicio01-site.html)
 * [Aula 05 - Tags semânticas e CSS](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula05/aula05.html)
     * [Exercício 01 - Site](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula05/exercicio01-site-tag-semantica.html)
+* [Aula 06 - CSS e revisão](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula06/aula06.html)
+    * [Exercício 01 - HTML](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula06/exercicio01.html)
+    * [Exercício 01 - CSS](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula06/style.css)
+    * [Exercício de revisão da P1](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula06/exercicio-p1.html)
 
 <div align="center">
     <h2>Autor</h2>

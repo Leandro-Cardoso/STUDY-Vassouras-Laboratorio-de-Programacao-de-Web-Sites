@@ -1,0 +1,38 @@
+body {
+	background-color: #111;
+	color: #eee;
+	text-align: center;
+	margin: 50px;
+}
+h1, h2 {
+	color: #5c7;
+}
+h1 {
+	font-size: 48px;
+}
+
+p{
+	text-align: justify;
+}
+.paragrafo {
+	color: #85c;
+	font-weight: bolder;
+}
+#sessao_1 > p + p {
+	color: #55c;
+}
+
+section {
+	padding: 20px 50px;
+	border: 3px solid #000;
+}
+#sessao_1 {
+	background-color: #201;
+	border-radius: 50px 50px 0 0;
+	border-bottom: 0;
+}
+#sessao_2 {
+	background-color: #001;
+	border-radius: 0 0 50px 50px;
+	border-top: 0;
+}
