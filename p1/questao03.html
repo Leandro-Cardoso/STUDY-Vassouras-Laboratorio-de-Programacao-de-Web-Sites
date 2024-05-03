@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Questão 3</title>
+		<style>
+			body {
+				text-align: center;
+				font-family: Verdana;
+				background-color: aqua;
+			}
+			h1 {
+				color: red;
+				font-size: 25px;
+				font-family: fantasy;
+			}
+			
+			#sessao-1 {
+				background-color: pink;
+				color: blue;
+			}
+			#sessao-1 .mudar {
+				color: green;
+				text-align: left;
+			}
+			
+			#sessao-2 {
+				background-color: lightgray;
+				color: blue;
+			}
+			#sessao-2 h2, #sessao-2 .mudar {
+				color: green;
+			}
+			
+			#sessao-3 h2 {
+				color: purple;
+			}
+			#sessao-3 p {
+				color: goldenrod;
+				font-weight: bold;
+				font-size: 20px;
+			}
+		</style>
+	</head>
+	<body>
+		<h1>Aqui deverá ser vermelho</h1>
+		<section id="sessao-1">
+			<p class="mudar">Aqui deverá ser de cor verde (green)</p>
+			<p>Aqui deverá ser verde</p>
+		</section>
+		<section id="sessao-2">
+			<h2 class="mudar">Aqui também deverá ser verde.</h2>
+			<p>Aqui deverá ser azul</p>
+			<p>Aqui deverá ser azul</p>
+			<p class="mudar">Aqui deverá ser de cor verde(green)</p>
+		</section>
+		<section id="sessao-3">
+			<h2>Aqui também deverá ser de cor roxo (purple).</h2>
+			<p>Aqui deverá ser dourado (goldenrod)</p>
+		</section>
+	</body>
+</html>
