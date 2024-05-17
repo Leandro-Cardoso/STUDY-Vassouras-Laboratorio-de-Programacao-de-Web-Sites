@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="with=device-width, initial-scale=1.0" />
+		<title>Tabela</title>
+		<style>
+			body {
+				padding: 50px;
+			}
+			table, th, td {
+				border: 2px solid black;
+				border-collapse: collapse;
+			}
+			table {
+				margin: auto;
+				min-width: 500px;
+				width: 80vw;
+			}
+			th, td {
+				text-align: center;
+				padding: 10px;
+			}
+			td:nth-child(3) {
+				text-align: right;
+			}
+			tfoot td {
+				text-align: left;
+				font-size: 12px;
+			}
+		</style>
+	</head>
+	<body>
+		<table>
+			<thead>
+				<tr>
+					<th colspan="4">Casa da Fortuna</th>
+				</tr>
+				<tr>
+					<th>Nome</th>
+					<th>Idade (anos)</th>
+					<th>Investimento</th>
+					<th>Tempo (meses)</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Fulano</td>
+					<td>32</td>
+					<td>R$ 12.000,00</td>
+					<td>12</td>
+				</tr>
+				<tr>
+					<td>Ciclano</td>
+					<td>43</td>
+					<td>R$ 1.000,00</td>
+					<td>25</td>
+				</tr>
+				<tr>
+					<td>Beltrano</td>
+					<td>43</td>
+					<td>R$ 40.000,00</td>
+					<td>48</td>
+				</tr>
+				<tr>
+					<td>Gerlano</td>
+					<td>93</td>
+					<td>R$ 10.000,00</td>
+					<td>26</td>
+				</tr>
+				<tr>
+					<td>Rubens</td>
+					<td>21</td>
+					<td>R$ 3.000,00</td>
+					<td>2</td>
+				</tr>
+			</tbody>
+			<tfoot>
+				<tr>
+					<td colspan="4">Fonte: Dados inventados por João.</td>
+				</tr>
+			</tfoot>
+		</table>
+	</body>
+</html>

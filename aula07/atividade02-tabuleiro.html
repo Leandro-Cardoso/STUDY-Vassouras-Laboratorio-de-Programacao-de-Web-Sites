@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="with=device-width, initial-scale=1.0" />
+		<title>Tabuleiro</title>
+		<style>
+			body {
+				margin: 0;
+				padding: 0;
+			}
+			#tabuleiro {
+				border: 1px solid black;
+				display: flex;
+				flex-wrap: wrap;
+				width: 90vw;
+				margin: 5vw;
+			}
+			.quadrado {
+				border: 1px solid black;
+				width: 18vw;
+				height: 18vw;
+				box-sizing: border-box;
+				background-color: green;
+			}
+			#tabuleiro div:nth-child(2n) {
+				background-color: black;
+			}
+			.p1 {
+				background-color: white;
+				width: 15vw;
+				height: 15vw;
+				border: 1px solid black;
+				border-radius: 50%;
+				margin: auto;
+				margin-top: 1.5vw;
+				box-sizing: border-box;
+			}
+			.p1:hover {
+				border: 5px solid red;
+			}
+			</style>
+	</head>
+	<body>
+		<div id="tabuleiro">
+			<div class="quadrado"></div>
+			<div class="quadrado"></div>
+			<div class="quadrado"></div>
+			<div class="quadrado"></div>
+			<div class="quadrado"></div>
+			<div class="quadrado"></div>
+			<div class="quadrado"></div>
+			<div class="quadrado"></div>
+			<div class="quadrado"><div class="p1"></div></div>
+			<div class="quadrado"></div>
+			<div class="quadrado"></div>
+			<div class="quadrado"></div>
+			<div class="quadrado"></div>
+			<div class="quadrado"></div>
+			<div class="quadrado"></div>
+			<div class="quadrado"></div>
+			<div class="quadrado"></div>
+			<div class="quadrado"></div>
+			<div class="quadrado"></div>
+			<div class="quadrado"></div>
+			<div class="quadrado"></div>
+			<div class="quadrado"></div>
+			<div class="quadrado"></div>
+			<div class="quadrado"></div>
+			<div class="quadrado"></div>
+		</div>
+	</body>
+</html>
