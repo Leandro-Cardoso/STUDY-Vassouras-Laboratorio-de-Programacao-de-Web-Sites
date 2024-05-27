@@ -30,9 +30,11 @@ Universidade de Vassouras, curso de Engenharia de Software.<br>
     * [Questão 01](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/p1/questao01.html)
     * [Questão 02](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/p1/questao02.html)
     * [Questão 03](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/p1/questao03.html)
-* [Aula 07 - ](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula07/aula07.html)
+* [Aula 07 - Recursos nth-child(), hover, first-letter, first-line:](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula07/aula07.html)
     * [Atividade 01 - Tabela](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula07/atividade01-tabela.html)
     * [Atividade 02 - Tabuleiro](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula07/atividade02-tabuleiro.html)
+* [Aula 08 - Revisão de CSS:](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula08/aula08.html)
+    * [Revisão - CSS](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula08/aula08.css)
 
 <div align="center">
     <h2>Autor</h2>

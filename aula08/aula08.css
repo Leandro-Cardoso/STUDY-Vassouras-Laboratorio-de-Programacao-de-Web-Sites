@@ -1,0 +1,96 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+body {
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	gap: 30px;
+}
+
+/* TABELA */
+table, th, td {
+	border: 1px solid #000;
+	border-collapse: collapse;
+}
+th, td {
+	padding: 10px;
+}
+thead tr {
+	background-color: #333;
+	color: #ddd;
+}
+tbody tr {
+	background-color: #cec;
+}
+tr:nth-child(even) {
+	background-color: #9e9;
+}
+tr td:nth-child(1), tr td:nth-child(2) {
+	text-align: center;
+}
+tr td:nth-child(3) {
+	text-align: right;
+}
+
+/* EXEMPLO */
+#paragrafos {
+	padding: 0 50px;
+}
+#paragrafos div:nth-child(2):hover {
+	transform: rotate(45deg);
+}
+#paragrafos div:nth-child(4):hover {
+	transform: rotate(-45deg);
+}
+.quadrado {
+	background-color: #00a;
+	width: 100px;
+	height: 100px;
+	margin: 10px;
+	border: 10px solid #000;
+	transition: all 2s;
+}
+.quadrado:hover {
+	background-color: #a00;
+	border-radius: 50%;
+	transition: all 2s;
+}
+#paragrafos p:first-letter {
+	font-size: 30px;
+}
+#paragrafos p:first-line {
+	color: #595;
+}
+
+/* QUADRADOS */
+#quadrados {
+	width: 100%;
+	padding: 50px;
+}
+#quadrados div {
+	width: 50px;
+	height: 50px;
+	background-color: #0a0;
+	margin: 10px;
+	transition: all 3s;
+}
+#quadrados div:nth-child(1):hover {
+	background-color: #a00;
+	margin-left: 50px;
+	transition: all 3s;
+}
+#quadrados div:nth-child(2):hover {
+	background-color: #00a;
+	transform: rotate(360deg);
+	transition: all 5s;
+}
+#quadrados div:nth-child(3):hover {
+	background-color: #a00;
+	transform: scale(3);
+	transition: all 5s;
+}
