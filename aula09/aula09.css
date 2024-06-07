@@ -1,0 +1,29 @@
+#container {
+	display: flex;
+	flex-direction: row-reverse;
+	justify-content: center;
+	gap: 10%;
+	flex-wrap: wrap;
+}
+[class^="exemplo_"] {
+	width: 50px;
+	height: 50px;
+	border: 2px solid #000;
+}
+.exemplo_1 {
+	width: 50px;
+	border: 2px solid black;
+	background-color: red;
+}
+.exemplo_2 {
+	background-color: orange;
+}
+.exemplo_3 {
+	background-color: green;
+}
+.exemplo_4 {
+	background-color: blue;
+}
+.exemplo_5 {
+	background-color: purple;
+}
