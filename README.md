@@ -37,6 +37,16 @@ Universidade de Vassouras, curso de Engenharia de Software.<br>
     * [Revisão - CSS](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula08/aula08.css)
 * [Aula 09 - Flexbox e Bootstrap:](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula09/aula09.html)
     * [CSS - Flexbox](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula09/aula09.css)
+* Aula 10 - Revisão e JavaScript:
+    * [HTML - Atividade 01](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula10/atividade01.html)
+    * [CSS - Atividade 01](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula10/atividade01.css)
+    * [HTML - Atividade 02](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula10/atividade02.html)
+    * [CSS - Atividade 02](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula10/atividade02.css)
+    * [HTML - Atividade 03](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula10/atividade03.html)
+    * [CSS - Atividade 03](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula10/atividade03.css)
+    * [HTML - Atividade 04](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula10/atividade04.html)
+    * [CSS - Atividade 04](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula10/atividade04.css)
+    * [JavaScript - Atividade 04](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula10/atividade04.js)
 
 <div align="center">
     <h2>Autor</h2>

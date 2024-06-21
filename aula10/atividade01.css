@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+}
+table, th, td {
+    border: 1px solid pink;
+    border-collapse: collapse;
+}
+table {
+    text-align: center;
+    margin: auto;
+}
+th {
+    background-color: black;
+    color: white;
+}
+tr:nth-child(even) {
+    background-color: bisque;
+}
+tr:nth-child(odd) {
+    background-color: aliceblue;
+}
+span {
+    font-weight: bold;
+}
+.rodape {
+    font-style: italic;
+}
