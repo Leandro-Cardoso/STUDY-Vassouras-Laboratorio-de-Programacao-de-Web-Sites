@@ -1,0 +1,30 @@
+.quadrado_1,
+.quadrado_2 {
+    width: 100px;
+    height: 100px;
+    border: 10px solid black;
+    margin: 10px;
+}
+.quadrado_1 {
+    background-color: red;
+}
+.quadrado_2 {
+    background-color: green;
+}
+.quadrado_1:hover, .quadrado_2:hover {
+    border-top-color: red;
+    border-left-color: orange;
+    border-bottom-color: purple;
+    border-right-color: blue;
+
+    transition: all 3s;
+}
+.quadrado_1:hover {
+    background-color: yellow;
+    transform: skewX(15deg);
+}
+.quadrado_2:hover {
+    background-color: black;
+    border-radius: 50%;
+    rotate: 1200deg;
+}
