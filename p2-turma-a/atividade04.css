@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+#tabuleiro {
+    display: flex;
+    width: 500px;
+    border: 10px solid;
+    border-color: red brown tomato;
+    flex-wrap: wrap;
+    margin: auto;
+}
+.quadrado {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+.quadrado:nth-child(odd) {
+    background-color: black;
+}
+.quadrado:nth-child(even) {
+    background-color: gainsboro;
+}
+h1 {
+    text-shadow: 1px 1px 3px;
+}

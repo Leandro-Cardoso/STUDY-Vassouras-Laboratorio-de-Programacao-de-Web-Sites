@@ -1,0 +1,17 @@
+body {
+    background-color: bisque;
+}
+.bola_1 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border: 10px solid green;
+    border-radius: 50%;
+}
+.bola_1:hover {
+    transform: rotate(900deg);
+    border-radius: 0;
+    background-color: teal;
+    border-color: blue yellow purple blue;
+    transition: all 5s;
+}

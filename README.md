@@ -46,6 +46,15 @@ Universidade de Vassouras, curso de Engenharia de Software.<br>
     * [CSS - Atividade 03](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula10/atividade03.css)
     * [HTML - Atividade 04](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula10/atividade04.html)
     * [JavaScript - Atividade 04](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/aula10/atividade04.js)
+* P2 - Turma A:
+    * [HTML - Atividade 01](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/p2-turma-a/atividade01.html)
+    * [JavaScript - Atividade 01](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/p2-turma-a/atividade01.js)
+    * [HTML - Atividade 02](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/p2-turma-a/atividade02.html)
+    * [CSS - Atividade 02](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/p2-turma-a/atividade02.css)
+    * [HTML - Atividade 03](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/p2-turma-a/atividade03.html)
+    * [CSS - Atividade 03](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/p2-turma-a/atividade03.css)
+    * [HTML - Atividade 04](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/p2-turma-a/atividade04.html)
+    * [CSS - Atividade 04](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/p2-turma-a/atividade04.css)
 
 <div align="center">
     <h2>Autor</h2>
