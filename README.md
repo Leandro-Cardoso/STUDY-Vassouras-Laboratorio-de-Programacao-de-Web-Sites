@@ -55,6 +55,10 @@ Universidade de Vassouras, curso de Engenharia de Software.<br>
     * [CSS - Atividade 03](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/p2-turma-a/atividade03.css)
     * [HTML - Atividade 04](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/p2-turma-a/atividade04.html)
     * [CSS - Atividade 04](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/p2-turma-a/atividade04.css)
+* P2:
+    * [Questão 01](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/p2/questao01.html)
+    * [Questão 02](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/p2/questao02.html)
+    * [Questão 03](https://github.com/Leandro-Cardoso/STUDY-Vassouras-Laboratorio-de-Programacao-de-Web-Sites/blob/main/p2/questao03.html)
 
 <div align="center">
     <h2>Autor</h2>

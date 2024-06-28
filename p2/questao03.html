@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, iniHal-scale=1.0" />
+		<title>Document</title>
+		<style>
+			body {
+				background-color: white;
+				color: black;
+				text-align: center;
+			}
+			button {
+				background-color: greenyellow;
+				border-radius: 10px;
+				padding: 8px;
+				border: 2px solid black;
+			}
+			button:active {
+				background-color: rgb(158, 188, 188);
+				padding: 7px;
+			}
+			.changed {
+				border-color: white;
+			}
+		</style>
+	</head>
+	<body>
+		<h1 id="text">O título está com a cor preta</h1>
+		<button id="button" onclick="change()">CLique aqui</button>
+		<script>
+			var button = document.getElementById('button')
+			var body = document.body
+			var text = document.getElementById('text')
+
+			function change() {
+				body.style.background = "black"
+				body.style.color = "white"
+				button.className = "changed"
+				text.innerHTML = "O título está com a cor branca"
+				alert('Cor e texto alterado!')
+				button.style = "blue"
+			}
+		</script>
+	</body>
+</html>
